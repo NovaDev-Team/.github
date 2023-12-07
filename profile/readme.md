@@ -4,7 +4,7 @@
 
 <h3 align="left">
 
-  👨‍💻 I'm a **Multi purpose bot, a advanced moderation bot, a minigame bot, a ticket bot, and much more!**
+  👨‍💻 I'm a **Multi purpose bot, a advanced moderation bot, a minigame bot, a ticket bot, a economy bot, and much more!**
 
   🌱 I am writen in **Python, PY-Cord**
   
